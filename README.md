@@ -1,6 +1,6 @@
 # institute-landing-page
 Landing Page for Institute with HTML, CSS, JS 
 
-## dempolink
+## demo link
 
 https://pie-star-academy.web.app/
